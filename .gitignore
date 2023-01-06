@@ -1,0 +1,16 @@
+src/.idea/
+src/Server/DTOs/__pycache__/
+src/Server/Database/__pycache__/
+src/Server/Actions/ServerResponse/__pycache__/
+src/Server/Actions/__pycache__/
+src/Server/__pycache__/
+src/Client/Elements/__pycache__/
+src/Client/DesktopApp/UI/__pycache__/
+src/Client/ConsoleApp/__pycache__/
+src/Client/DesktopApp/ServerCommunication/__pycache__/
+src/Client/DesktopApp/DataHandling/__pycache__/
+src/Client/Actions/__pycache__/
+src/Client/Actions/ActionElements/__pycache__/
+src/Client/__pycache__/
+src/Client/ServerRequest/__pycache__/
+src/Server/Database/DbConfig.py
